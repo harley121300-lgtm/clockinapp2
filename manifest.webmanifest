@@ -1,0 +1,16 @@
+{
+  "name": "My Time Clock",
+  "short_name": "Time Clock",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0e1014",
+  "theme_color": "#111318",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
